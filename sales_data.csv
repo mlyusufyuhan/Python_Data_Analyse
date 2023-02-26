@@ -1,0 +1,11 @@
+order_id,order_date,product_name,product_category,price,customer_id,customer_age,customer_gender,month,day_of_week
+10001,2022-02-01,iPhone 12,Electronics,999,2001,35,Male,02,Monday
+10002,2022-02-01,PlayStation 5,Electronics,499,2002,28,Female,02,Monday
+10003,2022-02-02,Instant Pot Duo,Home and Kitchen,129,2003,43,Male,02,Tuesday
+10004,2022-02-03,Fitbit Charge 5,Fitness,179,2004,31,Male,02,Wednesday
+10005,2022-02-03,AmazonBasics AAA Batteries,Electronics,9,2005,25,Female,02,Wednesday
+10006,2022-02-04,Harry Potter and the Sorcerer's Stone,Books,12,2006,20,Male,02,Thursday
+10007,2022-02-05,Samsung 50-inch Smart TV,Electronics,599,2007,37,Female,02,Friday
+10008,2022-02-06,Keurig K-Mini Coffee Maker,Home and Kitchen,79,2008,29,Female,02,Saturday
+10009,2022-02-06,Apple AirPods Pro,Electronics,249,2009,33,Male,02,Saturday
+10010,2022-02-07,Fujifilm Instax Mini 11,Electronics,69,2010,22,Female,02,Sunday
